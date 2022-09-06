@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Penta Account</string>
+
+    <string name="unit">UNITS</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="email">ENTER EMAIL</string>
+    <string name="password">ENTER PASSWORD</string>
+
+
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+
+</resources>
